@@ -1,0 +1,165 @@
+// .social_share {
+//   ul {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     list-style: none;
+//     li {
+//       margin-bottom: 20px;
+//       &:nth-last-child(1) {
+//         margin-bottom: 0;
+//       }
+//       a {
+//         width: 50px;
+//         height: 50px;
+//         box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//         border-radius: 50%;
+//         &.facebook {
+//           background-color: #3b5998;
+//           svg {
+//             fill: #fff;
+//             width: 25px;
+//             height: 25px;
+//           }
+//         }
+//         &.twitter {
+//           background-color: #1da0f1;
+//           svg {
+//             fill: #fff;
+//             width: 25px;
+//             height: 25px;
+//           }
+//         }
+//         &.linkedin {
+//           background-color: #01a0dc;
+//           svg {
+//             fill: #fff;
+//             width: 25px;
+//             height: 25px;
+//           }
+//         }
+//         &.whatsapp {
+//           background-color: #38be41;
+//           svg {
+//             fill: #fff;
+//             width: 25px;
+//             height: 25px;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+
+
+.share-new {
+  z-index: 10000;
+  position: absolute;
+  left: 50px;
+  bottom: -20px;
+}
+
+.share__button {
+  background-image: linear-gradient(to left, #293980 0%, #2e86de);
+  position: relative;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 64px;
+  height: 64px;
+  color: #fff;
+  background-color: #98dffd;
+  border-radius: 50px;
+  box-shadow: 0 0 0 1px #98dffd;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.share__toggle:checked ~ .share__button {
+  transform: rotate(180deg);
+}
+
+.share-new {
+  position: absolute;
+  float: left;
+  left: 50px;
+}
+.share__toggle:checked ~ .share__button {
+  transform: rotate(-180deg);
+}
+.share__toggle:checked ~ .share__icon--facebook {
+  transform: translateX(-55px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--twitter {
+  transform: translateX(-110px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--whatsapp {
+  transform: translateX(-165px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--email {
+  transform: translateX(-220px) rotate(0);
+}
+
+.share__icon {
+  position: absolute;
+  top: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  transform: translateX(0) rotate(180deg);
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  font-size: 25px;
+  color: #fff;
+  svg {
+    fill: #fff;
+    width: 25px;
+    height: 25px;
+  }
+}
+.share__icon--facebook {
+  background-color: #3b5998;
+}
+.share__icon--twitter {
+  background-color: #1da1f2;
+}
+.share__icon--whatsapp {
+  background-color: #25d366;
+}
+.share__icon--email {
+  background-color: #777;
+}
+
+.share__toggle:checked ~ .share__button {
+  transform: rotate(0deg);
+}
+.share__button {
+  transform: rotate(-180deg);
+}
+.share__toggle:checked ~ .share__icon--facebook {
+  transform: translateX(57px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--twitter {
+  transform: translateX(112px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--whatsapp {
+  transform: translateX(167px) rotate(0);
+}
+.share__toggle:checked ~ .share__icon--email {
+  transform: translateX(222px) rotate(0);
+}
+.share__icon {
+  top: 9px;
+}
+
+.share-new {
+  z-index: 10000;
+}

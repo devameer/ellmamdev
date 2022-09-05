@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden !important;
+}
+@import "nav-bar";
+@import "home-header";
+@import "home-about-us";
+@import "latest-files-sec";
+@import "latest-videos-sec";
+@import "global";
+@import "single-rule";
+@import "comments";
+@import "social_share";
+@import "contact";
+@import "list-filters";
+@import "single-page";
+@import "pageTemplate";
+
+@import "rating";
+
+@import "footer";
+.home-about-us .vector {transform: rotateY(180deg);}

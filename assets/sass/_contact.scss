@@ -1,0 +1,123 @@
+.inner-page {
+  padding-bottom: 100px;
+}
+.inner-page.contact .head {
+  margin-bottom: 40px;
+}
+
+.inner-page.contact .head h2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #212529;
+  margin-bottom: 20px;
+}
+
+.inner-page.contact .head p {
+  font-size: 16px;
+  text-align: center;
+  color: #212529;
+}
+.inner-page.contact form label {
+  margin-bottom: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.inner-page.contact form input,
+.inner-page.contact form textarea {
+  border-radius: 6px;
+  border: solid 1px #b2b2b2;
+  background-color: #ffffff;
+  color: #212529;
+  height: 40px;
+  margin-bottom: 15px;
+}
+.inner-page.contact form textarea {
+  height: auto;
+}
+.inner-page.contact form input::-webkit-input-placeholder,
+.inner-page.contact form textarea::-webkit-input-placeholder,
+.inner-page.contact form select::-webkit-input-placeholder {
+  color: rgba(33, 37, 41, 0.5);
+}
+
+.inner-page.contact form input:-ms-input-placeholder,
+.inner-page.contact form textarea:-ms-input-placeholder,
+.inner-page.contact form select:-ms-input-placeholder {
+  color: rgba(33, 37, 41, 0.5);
+}
+
+.inner-page.contact form input::-ms-input-placeholder,
+.inner-page.contact form textarea::-ms-input-placeholder,
+.inner-page.contact form select::-ms-input-placeholder {
+  color: rgba(33, 37, 41, 0.5);
+}
+
+.inner-page.contact form input::placeholder,
+.inner-page.contact form textarea::placeholder,
+.inner-page.contact form select::placeholder {
+  color: rgba(33, 37, 41, 0.5);
+}
+
+.inner-page.contact form .button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.inner-page.contact form .button button {
+  width: 170px;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #293980;
+  color: #fff;
+  line-height: 1.31;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.inner-page.contact .contact-details .img {
+  margin-bottom: 30px;
+}
+
+.inner-page.contact .contact-details .social a {
+  margin-bottom: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.inner-page.contact .contact-details .social a .icon {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(41, 57, 128, 0.35);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: 15px;
+  color: #293980;
+}
+.inner-page.contact .contact-details .social a .icon svg {
+  width: 25px;
+  height: 25px;
+  fill: #293980;
+}
+.inner-page.contact .contact-details .social a span {
+  font-size: 16px;
+  color: #212529;
+}

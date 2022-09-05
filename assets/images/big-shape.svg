@@ -1,0 +1,31 @@
+ <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="850"
+          height="700"
+          viewBox="0 358 850 700"
+        >
+          <defs>
+            <linearGradient
+              id="j8v07717cb"
+              x1=".5"
+              x2=".5"
+              y2="1"
+              gradientUnits="objectBoundingBox"
+            >
+              <stop offset="0" stop-color="#293980" />
+              <stop offset="1" stop-color="#2e86de" />
+            </linearGradient>
+            <clipPath id="irh9mz64sa">
+              <path fill="#fff" stroke="#707070" d="M0 0H785V1027H0z" />
+            </clipPath>
+          </defs>
+          <g clip-path="url(#irh9mz64sa)">
+            <rect
+              width="1151"
+              height="2519"
+              fill="url(#j8v07717cb)"
+              rx="575.5"
+              transform="rotate(-60 -906.04 1523.625)"
+            />
+          </g>
+        </svg>

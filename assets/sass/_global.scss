@@ -1,0 +1,46 @@
+.sec-title {
+  margin-bottom: 100px;
+  h2 {
+    text-align: center;
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+
+    &:after {
+      position: absolute;
+      content: "";
+      width: 70px;
+      height: 5px;
+      border-radius: 5px;
+      bottom: -20px;
+      background: #2e86de;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+  p {
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+.read-more-sec {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  padding-bottom: 10px;
+
+  a {
+    background: #3f4d8d;
+    border-radius: 50px;
+    justify-content: center;
+    padding: 10px 50px;
+    font-size: 18px;
+    color: #fff;
+    display: flex;
+    width: 100%;
+    max-width: 350px;
+    text-decoration: none;
+  }
+}
