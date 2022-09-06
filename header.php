@@ -14,20 +14,20 @@
     <link rel="stylesheet" href="assets/css/style-rtl.css" />
     <meta data-hid="description" name="description"
         content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
-    <meta name="title" content=" منصة إلمام التعليمية" />
-    <meta data-hid="twitter:title" name="twitter:title" content=" منصة إلمام التعليمية" />
+    <meta name="title" content=" منصة إلمام للإستشارات" />
+    <meta data-hid="twitter:title" name="twitter:title" content=" منصة إلمام للإستشارات" />
     <meta data-hid="twitter:description" name="twitter:description"
         content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
     <meta data-hid="twitter:image" name="twitter:image" content="assets/favicon/logo.png" />
-    <meta data-hid="twitter:image:alt" name="twitter:image:alt" content=" منصة إلمام التعليمية" />
+    <meta data-hid="twitter:image:alt" name="twitter:image:alt" content=" منصة إلمام للإستشارات" />
     <meta property="twitter:card" content="assets/favicon/logo.png" />
     <meta property="twitter:url" content="https://ellmamdev.com/" />
-    <meta data-hid="og:title" property="og:title" content=" منصة إلمام التعليمية" />
+    <meta data-hid="og:title" property="og:title" content=" منصة إلمام للإستشارات" />
     <meta data-hid="og:description" property="og:description"
         content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
     <meta data-hid="og:image" property="og:image" content="assets/favicon/logo.png" />
     <meta data-hid="og:image:secure_url" property="og:image:secure_url" content="assets/favicon/logo.png" />
-    <meta data-hid="og:image:alt" property="og:image:alt" content=" منصة إلمام التعليمية" />
+    <meta data-hid="og:image:alt" property="og:image:alt" content=" منصة إلمام للإستشارات" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ellmamdev.com/" />
     <meta name="msapplication-TileColor" content="undefined" />
