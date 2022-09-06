@@ -195,7 +195,7 @@ body > .navbar-collapse {
   }
 
   @media (max-width: 991px) {
-    width: $sidebar-width / 1.5;
+    width: calc($sidebar-width / 1.5);
   }
 
   .nav-image {

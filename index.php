@@ -6,16 +6,22 @@
             <div class="col-lg-6">
                 <div class="text">
                     <h1 data-aos="fade-up">
-                        يمكنك الآن التحدث وطلب استشارة مجانية مع اخصائي في التسويق
+
+                        نبذة عنّا :
+                        <br>
+                        إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز ب
                     </h1>
                     <p data-aos="fade-up" data-aos-delay="300">
-                        إجلاء وتنامت عدد مع. لقهر معركة لبلجيكا، بـ انه, ربع الأثنان
-                        المقيتة في, اقتصّت المحور حدة و. هذه ما طرفاً عالمية استسلام,
-                        الصين وتنامت حين ٣٠, ونتج والحزب المذابح كل جوي. أسر كارثة
-                        المشتّتون بل, وبعض وبداية الصفحة غزو قد, أي بحث تعداد الجنوب.
+                        المميزات <br>
+
+                        التميز في الاعمال <br>
+
+                        تقليل التكاليف <br>
+
+                        المهنية في تقديم الخدمات
                     </p>
                     <div class="link" data-aos="fade-up" data-aos-delay="600">
-                        <a class="btn" href="">طلب إستشارة الآن </a>
+                        <a class="btn" ata-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة الآن </a>
                     </div>
                 </div>
             </div>
@@ -38,18 +44,21 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4>خدمة تجريبية</h4>
-                            <span>قسم قسم</span>
+                            <h4> تحليل البيانات الادارية</h4>
+
+                            <div class="price">
+                                600 ريال
+                            </div>
                         </div>
                         <div class="img">
                             <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
                         </div>
                         <div class="desc">
-                            <p>
+                            <!-- <p>
                                 وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
                                 العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
                                 مطبوعه
-                            </p>
+                            </p> -->
                         </div>
                         <div class="link-more">
                             <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
@@ -59,18 +68,21 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4>خدمة تجريبية</h4>
-                            <span>قسم قسم</span>
+                            <h4>تطوير الاجراءات الادارية</h4>
+
+                            <div class="price">
+                                500 ريال
+                            </div>
                         </div>
                         <div class="img">
                             <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
                         </div>
                         <div class="desc">
-                            <p>
+                            <!-- <p>
                                 وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
                                 العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
                                 مطبوعه
-                            </p>
+                            </p> -->
                         </div>
                         <div class="link-more">
                             <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
@@ -80,18 +92,21 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="900">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4>خدمة تجريبية</h4>
-                            <span>قسم قسم</span>
+                            <h4> تطوير الاعمال المتقدمة </h4>
+
+                            <div class="price">
+                                250 ريال
+                            </div>
                         </div>
                         <div class="img">
                             <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
                         </div>
                         <div class="desc">
-                            <p>
+                            <!-- <p>
                                 وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
                                 العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
                                 مطبوعه
-                            </p>
+                            </p> -->
                         </div>
                         <div class="link-more">
                             <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
@@ -159,7 +174,7 @@
                         </div>
                         <div class="social" data-aos="fade-up" data-aos-delay="900">
                             <ul class="list-unstyled">
-                                <li>
+                                <!-- <li>
                                     <a href="#">
                                         <div class="icon">
                                             <svg>
@@ -168,7 +183,7 @@
                                         </div>
                                         <span>000 000 0000</span>
                                     </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="#">
                                         <div class="icon">
@@ -176,7 +191,7 @@
                                                 <use xlink:href="/assets/images/icons.svg#email"></use>
                                             </svg>
                                         </div>
-                                        <span>example@mail.com</span>
+                                        <span>info@ellmamdev.com</span>
                                     </a>
                                 </li>
                                 <li>

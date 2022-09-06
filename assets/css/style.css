@@ -512,6 +512,17 @@ body > #overlay {
   font-size: 16px;
   color: #555;
 }
+.single-rule-2 .title .price {
+  position: absolute;
+  left: 0;
+  top: 10px;
+  background: #0d6efd;
+  color: #fff;
+  font-weight: 600;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+}
 .single-rule-2 .img {
   border-radius: 100px 0 100px;
   max-width: 100%;
