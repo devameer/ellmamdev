@@ -12,6 +12,32 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/style-rtl.css" />
+    <meta data-hid="description" name="description"
+        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
+    <meta name="title" content=" منصة إلمام التعليمية" />
+    <meta data-hid="twitter:title" name="twitter:title" content=" منصة إلمام التعليمية" />
+    <meta data-hid="twitter:description" name="twitter:description"
+        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
+    <meta data-hid="twitter:image" name="twitter:image" content="assets/favicon/logo.png" />
+    <meta data-hid="twitter:image:alt" name="twitter:image:alt" content=" منصة إلمام التعليمية" />
+    <meta property="twitter:card" content="assets/favicon/logo.png" />
+    <meta property="twitter:url" content="https://ellmamdev.com/" />
+    <meta data-hid="og:title" property="og:title" content=" منصة إلمام التعليمية" />
+    <meta data-hid="og:description" property="og:description"
+        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
+    <meta data-hid="og:image" property="og:image" content="assets/favicon/logo.png" />
+    <meta data-hid="og:image:secure_url" property="og:image:secure_url" content="assets/favicon/logo.png" />
+    <meta data-hid="og:image:alt" property="og:image:alt" content=" منصة إلمام التعليمية" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ellmamdev.com/" />
+    <meta name="msapplication-TileColor" content="undefined" />
+    <meta name="theme-color" content="undefined" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="assets/favicon/site.webmanifest" />
+    <link rel="mask-icon" color="#5bbad5" href="assets/favicon/safari-pinned-tab.svg" />
 </head>
 
 <body>
