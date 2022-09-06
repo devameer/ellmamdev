@@ -52,7 +52,7 @@
                             </p>
                         </div>
                         <div class="link-more">
-                            <a href="/single.html">طلب إستشارة</a>
+                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                             </p>
                         </div>
                         <div class="link-more">
-                            <a href="/single.html">طلب إستشارة</a>
+                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
                         </div>
                     </div>
                 </div>
@@ -94,14 +94,12 @@
                             </p>
                         </div>
                         <div class="link-more">
-                            <a href="/single.html">طلب إستشارة</a>
+                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="read-more-sec">
-                <a href="/list.html">المزيد من الإستشارات</a>
-            </div>
+
         </div>
     </div>
 </div>

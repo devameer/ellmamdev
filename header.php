@@ -28,9 +28,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/about">من نحن</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/list">الإستشارات</a>
-                    </li>
+
                     <li class="nav-item active">
                         <a class="nav-link" href="/contact">إتصل بنا</a>
                     </li>

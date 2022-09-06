@@ -158,44 +158,5 @@
     </div>
 </div>
 
-<div class="modal fade" id="SendEmail" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">طلب الإستشارة</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <form action="#">
-                    <div class="form-group">
-                        <label for=""> الإسم الكريم</label>
-                        <input type="text" name="" id="" class="form-control" placeholder="" />
-                    </div>
-                    <div class="form-group">
-                        <label for="">البريد الإلكتروني</label>
-                        <input type="text" name="" id="" class="form-control" placeholder="" />
-                    </div>
-                    <div class="form-group">
-                        <label for=""> رقم الجوال</label>
-                        <input type="text" name="" id="" class="form-control" placeholder="" />
-                    </div>
-                    <div class="form-group">
-                        <label for=""> عنوان الإستشارة</label>
-                        <input type="text" name="" id="" class="form-control" placeholder="" />
-                    </div>
-                    <div class="form-group">
-                        <label for=""> تفاصيل الإستشارة</label>
-                        <textarea name="" id="" class="form-control" placeholder=""></textarea>
-                    </div>
-                </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
-                    إغلاق
-                </button>
-                <button type="button" class="btn btn-primary">إرسال</button>
-            </div>
-        </div>
-    </div>
-</div>
+
 <?php include 'footer.php' ?>

@@ -1,5 +1,9 @@
 <?php include 'header.php' ?>
-
+<style>
+.navbar-offcanvas .logo img {
+    filter: brightness(20.5);
+}
+</style>
 <div class="template-page-head">
     <div class="container">
         <div class="row align-items-center" data-aos="fade-up" data-aos-delay="300">
