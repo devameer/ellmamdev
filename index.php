@@ -44,7 +44,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4> تحليل البيانات الادارية</h4>
+                            <h4> تحليل الأعمال الادارية</h4>
 
                             <div class="price">
                                 600 ريال
