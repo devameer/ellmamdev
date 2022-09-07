@@ -7,20 +7,22 @@
                 <div class="text">
                     <h1 data-aos="fade-up">
 
-                        نبذة عنّا :
-                        <br>
-                        إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز ب
+
+                        توفر إنجاز للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
+                        لاحتياجات عملائها من الخدمات العمالية
                     </h1>
                     <p data-aos="fade-up" data-aos-delay="300">
-                        المميزات <br>
+                        سرعة الانجاز
+                        <br>
 
-                        التميز في الاعمال <br>
+                        التكلفة المنخفضة
+                        <br>
 
-                        تقليل التكاليف <br>
+                        الجودة العالية
+                        <br>
 
-                        المهنية في تقديم الخدمات
                     </p>
-                    <div class="link" data-aos="fade-up" data-aos-delay="600">
+                    <div class="link">
                         <a class="btn" ata-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة الآن </a>
                     </div>
                 </div>
@@ -37,52 +39,28 @@
 <div class="latest-files-sec">
     <div class="container">
         <div class="sec-title" data-aos="flip-down">
-            <h2>خدمات الاستشارات</h2>
+            <h2>الخدمات </h2>
         </div>
         <div class="sec-body">
-            <div class="row">
-                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="single-rule-2">
-                        <div class="title">
-                            <h4> تحليل الأعمال الادارية</h4>
+            <div class="row justify-content-center">
 
-                            <div class="price">
-                                600 ريال
-                            </div>
-                        </div>
-                        <div class="img">
-                            <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
-                        </div>
-                        <div class="desc">
-                            <!-- <p>
-                                وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
-                                العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
-                                مطبوعه
-                            </p> -->
-                        </div>
-                        <div class="link-more">
-                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4>تطوير الاجراءات الادارية</h4>
+                            <h4> خدمة الافراد</h4>
 
                             <div class="price">
-                                500 ريال
+                                400 ريال
                             </div>
                         </div>
                         <div class="img">
                             <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
                         </div>
                         <div class="desc">
-                            <!-- <p>
-                                وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
-                                العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
-                                مطبوعه
-                            </p> -->
+                            <p>
+                                تختص بالخدمات العمالية الخاصة بالمنزل مثل عاملة منزلية , طباخ منزلي , مزارع منزلي )
+
+                            </p>
                         </div>
                         <div class="link-more">
                             <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
@@ -92,7 +70,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="900">
                     <div class="single-rule-2">
                         <div class="title">
-                            <h4> تطوير الاعمال المتقدمة </h4>
+                            <h4> خدمة الشركات</h4>
 
                             <div class="price">
                                 250 ريال
@@ -102,11 +80,10 @@
                             <img src="http://hr-excellence.net/assets/images/video.png" alt="" />
                         </div>
                         <div class="desc">
-                            <!-- <p>
-                                وريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على
-                                العميل ليتصور طريقه وضع النصوص بالتصاميم سواء كانت تصاميم
-                                مطبوعه
-                            </p> -->
+                            <p>
+                                عملاؤنا يستفيدون من العلاقات العامة عالية المستوى والحلول المصممة والمبتكرة والتي تعكس
+                                خبرة إلمام للخدمات العامة التي لا مثيل لها في مجال الخدمات العامة للشركات.
+                            </p>
                         </div>
                         <div class="link-more">
                             <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>

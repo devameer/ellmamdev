@@ -574,6 +574,7 @@ body > #overlay {
 .single-rule-2 .desc p {
   font-size: 17px;
   color: #555;
+  height: 90px;
 }
 .single-rule-2 .link-more {
   display: flex;

@@ -12,22 +12,22 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/style-rtl.css" />
-    <meta data-hid="description" name="description"
-        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
-    <meta name="title" content=" منصة إلمام للإستشارات" />
-    <meta data-hid="twitter:title" name="twitter:title" content=" منصة إلمام للإستشارات" />
-    <meta data-hid="twitter:description" name="twitter:description"
-        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
+    <meta data-hid="description" name="description" content="                        توفر إنجاز للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
+                        لاحتياجات عملائها من الخدمات العمالية" />
+    <meta name="title" content="إلمام للخدمات العامة" />
+    <meta data-hid="twitter:title" name="twitter:title" content="إلمام للخدمات العامة" />
+    <meta data-hid="twitter:description" name="twitter:description" content="                        توفر إنجاز للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
+                        لاحتياجات عملائها من الخدمات العمالية" />
     <meta data-hid="twitter:image" name="twitter:image" content="assets/favicon/logo.png" />
-    <meta data-hid="twitter:image:alt" name="twitter:image:alt" content=" منصة إلمام للإستشارات" />
+    <meta data-hid="twitter:image:alt" name="twitter:image:alt" content="إلمام للخدمات العامة" />
     <meta property="twitter:card" content="assets/favicon/logo.png" />
     <meta property="twitter:url" content="https://ellmamdev.com/" />
-    <meta data-hid="og:title" property="og:title" content=" منصة إلمام للإستشارات" />
-    <meta data-hid="og:description" property="og:description"
-        content="إلمام تقدم لكم خدمات لتحليل وتطوير الاعمال الادارية ونتميز" />
+    <meta data-hid="og:title" property="og:title" content="إلمام للخدمات العامة" />
+    <meta data-hid="og:description" property="og:description" content="                        توفر إنجاز للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
+                        لاحتياجات عملائها من الخدمات العمالية" />
     <meta data-hid="og:image" property="og:image" content="assets/favicon/logo.png" />
     <meta data-hid="og:image:secure_url" property="og:image:secure_url" content="assets/favicon/logo.png" />
-    <meta data-hid="og:image:alt" property="og:image:alt" content=" منصة إلمام للإستشارات" />
+    <meta data-hid="og:image:alt" property="og:image:alt" content="إلمام للخدمات العامة" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ellmamdev.com/" />
     <meta name="msapplication-TileColor" content="undefined" />
