@@ -36,7 +36,7 @@
                     <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
                         <div class="head">
                             <h2>نسعد بتواصلكم معنا</h2>
-                            <p>نسعد بتواصلكم معنانسعد بتواصلكم معنانسعد بتواصلكم معنا</p>
+                            <!-- <p>نسعد بتواصلكم معنانسعد بتواصلكم معنانسعد بتواصلكم معنا</p> -->
                         </div>
                         <form method="POST" action="https://althria.co/contact-us" accept-charset="UTF-8">
                             <input name="_token" type="hidden" value="GlDinjykE9snJ6JwNGZtpGEJYnbrlN8jsaLk4Fph" />
@@ -88,20 +88,10 @@
                                     <a href="#">
                                         <div class="icon">
                                             <svg>
-                                                <use xlink:href="/assets/images/icons.svg#phone"></use>
-                                            </svg>
-                                        </div>
-                                        <span>000 000 0000</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <div class="icon">
-                                            <svg>
                                                 <use xlink:href="/assets/images/icons.svg#email"></use>
                                             </svg>
                                         </div>
-                                        <span>example@mail.com</span>
+                                        <span>info@ellmamdev.com</span>
                                     </a>
                                 </li>
                                 <li>

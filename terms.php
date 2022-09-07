@@ -81,7 +81,7 @@
 
                 <p dir="rtl"><strong>اتصل بنا</strong></p>
 
-                <p dir="rtl">إذا كان لديك أي أسئلة حول هذه الشروط ، يرجى الاتصال بنا على info@aquafashion.com</p>
+                <p dir="rtl">إذا كان لديك أي أسئلة حول هذه الشروط ، يرجى الاتصال بنا على info@ellmamdev.com</p>
             </div>
         </div>
     </div>

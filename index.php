@@ -8,7 +8,7 @@
                     <h1 data-aos="fade-up">
 
 
-                        توفر إنجاز للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
+                        توفر إلمام للخدمات العامة لعملائها خدمات متكاملة عالية الجودة تعتمد على دراسة مفصلة وشاملة
                         لاحتياجات عملائها من الخدمات العمالية
                     </h1>
                     <p data-aos="fade-up" data-aos-delay="300">
@@ -23,7 +23,7 @@
 
                     </p>
                     <div class="link">
-                        <a class="btn" ata-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة الآن </a>
+                        <a class="btn" ata-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب الخدمة الآن </a>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                             </p>
                         </div>
                         <div class="link-more">
-                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
+                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب الخدمة</a>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                             </p>
                         </div>
                         <div class="link-more">
-                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب إستشارة</a>
+                            <a data-bs-toggle="modal" data-bs-target="#SendEmail" href="#">طلب الخدمة</a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
     <div class="container">
         <div class="sec-title" data-aos="flip-down">
             <h2>نسعد بتواصلكم معنا</h2>
-            <p>نسعد بتواصلكم معنان سعد بتواصلكم معنان سعد بتواصلكم معنا</p>
+            <!-- <p>نسعد بتواصلكم معنان سعد بتواصلكم معنان سعد بتواصلكم معنا</p> -->
         </div>
         <div class="contact-inner">
             <div class="row">

@@ -104,7 +104,7 @@
 
                 <p dir="rtl"><strong>اتصل بنا</strong></p>
 
-                <p dir="rtl">إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه ، يرجى الاتصال بنا. info@aquafashion.com
+                <p dir="rtl">إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه ، يرجى الاتصال بنا. info@ellmamdev.com
                 </p>
             </div>
         </div>

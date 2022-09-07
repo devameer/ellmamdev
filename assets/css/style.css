@@ -330,9 +330,10 @@ body > #overlay {
   z-index: -1;
 }
 .home-header .text h1 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   margin-bottom: 30px;
+  line-height: 1.6;
 }
 @media (max-width: 600px) {
   .home-header .text h1 {
