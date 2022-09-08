@@ -1,4 +1,15 @@
-<?php include 'includes/header.php' ?>
+<?php
+if (isset($_GET['invoice_id']) && !empty($_GET['invoice_id'])) {
+    include 'includes/functions.php';
+    $invoice = getInvoiceById((int)$_GET['invoice_id']);
+    if($invoice == null){
+        include('404.php');
+        exit;
+    }
+}
+
+include 'includes/header.php';
+?>
 
 <div class="single-page-head">
     <div class="container">
@@ -14,7 +25,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="img">
-                    <img src="/assets/images/logo-white.svg" alt="" />
+                    <img src="/assets/images/logo-white.svg" alt=""/>
                 </div>
             </div>
         </div>
@@ -29,7 +40,7 @@
                         <div class="preview">
                             <div class="image">
                                 <img src="https://hbrarabic.com/wp-content/uploads/2019/11/%D9%87%D8%A7%D8%B1%D9%81%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B2%D9%86%D8%B3-%D8%B1%D9%8A%D9%81%D9%8A%D9%88-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D8%B9-%D9%81%D9%8A-%D9%85%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84.jpg"
-                                    alt="" />
+                                     alt=""/>
                             </div>
                         </div>
                         <!-- <div class="social_share">

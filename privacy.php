@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'includes/header.php' ?>
 <style>
 .navbar-offcanvas .logo img {
     filter: brightness(20.5);
@@ -110,4 +110,4 @@
         </div>
     </div>
 </div>
-<?php include 'footer.php' ?>
+<?php include 'includes/footer.php' ?>

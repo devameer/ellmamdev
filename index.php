@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'includes/header.php' ?>
 <div class="home-header">
     <div class="big-shape" id="big-shape"></div>
     <div class="container">
@@ -189,4 +189,4 @@
         </div>
     </div>
 </div>
-<?php include 'footer.php' ?>
+<?php include 'includes/footer.php' ?>
